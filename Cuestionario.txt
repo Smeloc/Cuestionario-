@@ -2,18 +2,29 @@ SNATIAGO MELO CHAUX     11-1
 
 
 
-En tus palabras, ¿Qué es internet?
+En tus palabras, ¿Qué es internet?\
+-Es una red interconectada de todas las cosas. The internet of things.
 
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+- Pasa a traves de cables y servidores, a veces pueden ser cables de cobre pero hoy en dia la mayoria son de fibra optica.
 
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+- Para encontrar una direccion de internet, necesitas su ip. Con la ip puedes acceder a una pagina o sitio. El problema es que para que una computadora sepa cual es la ip de un dominio (por ejemplo www.github.com) necesitas un servicio de DNS para que este te lo diga.
 
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+- Tu entras a spotify y to telefono pide un catalogo de las canciones disponibles a spotify. Cuando eliges una cancion, tu telefono hace el request, y este viaja desde tu telefono, hasta los servidores de tu proveedor de servicios de internet, hasta los servidores de spotify. Spotify responde mandandote la cancion, por la misma ruta pero viceversa. Todo esto pasa en milisegundos.
 
 Describe los protocolos que existen en internet, en específico HTTP y HTML
+- HTTP y HTML son lenguajes los cuales tu browser puede desifrar e interpretar.
 
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+- La encriptacion se puede llevar a cabo gracias a la criptografia. Las llaves publicas son la manera en la que alguien puede reconocer o unsar una clave encriptada, Pero no saber su contenido. 
+
+Tambien tienes lo que se llama la llave privada. Esta es la que se usa para desencriptar una clave, y ahora si, saber su contenido. Esta es muy improtante que que no sea publica, y que no caiga en manos de nadie excepto tu. 
 
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+- Lo mas importante es tener precaucion en linea. Siempre desconfiar de sitios y personas que encuentres online excepto que estes completamente segguro de que esa persona o servicio es de confianza total. Nunca entrar a sition que no tengan certificado HTTP, o HTTPS, y no descargar archivos de dudosa procedencia. 
+
+Siempre tener cuidado con el contenido que ves online. Esta es una de las partes mas importantes de el proceso para estar seguro. 
 
 ¿Cómo funciona la búsqueda de google?
