@@ -28,3 +28,4 @@ En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los crim
 Siempre tener cuidado con el contenido que ves online. Esta es una de las partes mas importantes de el proceso para estar seguro. 
 
 ¿Cómo funciona la búsqueda de google?
+- Tu entras al portal de google, y hazes una busqueda. Google procede a escanear toda la red y toda su base de datos por resultados que sean similares o iguales a tu busqueda. Esto se hace con algoritmos extremadamente complicados, y se procesa en los servidores de google, no en tu computadora o internet.
